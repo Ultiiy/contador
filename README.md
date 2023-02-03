@@ -18,5 +18,5 @@
 
 ## | Sobre ##
 
-<p></p>
+<p>Basicamente o contador funciona adicionando ou removendo valores através dos botões de '+' e '-'.</p>
 
