@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    background: hsl(210, 36%, 96%);
+    color: hsl(209, 61%, 16%);
+}
+
+main {
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+}
+
+#contador {
+    text-align: center;
+    line-height: 1.6;
+}
+
+#contador h1 {
+    letter-spacing: 0.1rem;
+    font-size: 4rem;
+}
+
+#contador span {
+    font-size: 6rem;
+    font-weight: bold;
+}
+
+#contador .btns {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#contador button {
+    background-color: transparent;
+    color: hsl(209, 61%, 16%);
+    display: flex;
+    font-size: 26px;
+    border: none;
+    cursor: pointer;
+} 
