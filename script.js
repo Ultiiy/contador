@@ -16,7 +16,7 @@ botoes.forEach(function (botao) {
         if (contador > 0) {
             resultado.style.color = "green";
         } else if (contador === 0) {
-            resultado.style.color = "hsl(209, 61%, 16%)";
+            resultado.style.color = "black";
         } else {
             resultado.style.color = "red";
         }
