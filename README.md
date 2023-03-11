@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img src="https://media.discordapp.net/attachments/1063891503107285102/1070956607627870218/contador.png">
+  <img src="https://media.discordapp.net/attachments/1063891503107285102/1081755603065655326/contador.png">
 </div>
 
 <h1 align="center">Contador</h1>
